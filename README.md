@@ -1,6 +1,8 @@
 # Minitest::Coloring
 Coloring result of running minitest.
 
+![Example](screenshot.png)
+
 ## Installation
 
 Add a line below to your Gemfile.
